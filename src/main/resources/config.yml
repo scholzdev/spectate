@@ -1,0 +1,6 @@
+cycle-delay-seconds: 10
+twitch-command-delay-seconds: 10
+twitch-command: '!kekw'
+force-spectator: true
+forced-spectator-name: 'example_name'
+channel: 'example_name'

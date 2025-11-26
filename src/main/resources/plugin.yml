@@ -1,0 +1,9 @@
+name: Spectator
+version: 1.0.0
+main: dev.scholzdev.Spectator
+api-version: '1.21'
+author: scholzdev
+
+commands:
+  spectate:
+    usage: /spectate
